@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+
 # AI-Driven Anomaly Detection for CI/CD Pipeline Security
 
 This project keeps the existing anomaly detection implementation unchanged and
@@ -36,9 +38,12 @@ deployment telemetry. Automating this ML pipeline in GitHub Actions simulates
 that operational model by running anomaly analysis on each code change and
 preserving artifacts for review, trend tracking, and incident triage.
 
-## Datasets are not included due to size limitations. 
+## Datasets are not included due to size limitations.
+
 They can be downloaded from:
-1. Log data for Anomaly Detection: https://www.kaggle.com/datasets/krishd123/log-data-for-anomaly-detection
+
+1. Log data for Anomaly Detection:
+   https://www.kaggle.com/datasets/krishd123/log-data-for-anomaly-detection
 2. UNSW-NB15 Dataset: https://research.unsw.edu.au/projects/unsw-nb15-dataset
-3. Intrusion Detection Evaluation Dataset: https://www.unb.ca/cic/datasets/ids-2017.html
-4. CI/CD Pipeline failures Dataset: https://www.kaggle.com/datasets/mirzayasirabdullah07/cicd-pipeline-failure-logs-dataset-for-aiops
+3. Intrusion Detection Evaluation Dataset:
+   https://www.unb.ca/cic/datasets/ids-2017.html
