@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # AI-Driven Anomaly Detection for CI/CD Pipeline Security
 
 This project keeps the existing anomaly detection implementation unchanged and
